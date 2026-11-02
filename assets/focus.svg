@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="52" viewBox="0 0 1000 52" role="img"><style>
+text{font:19px 'DejaVu Sans Mono',monospace;fill:#afd5e4;opacity:0;animation:words 12s infinite}
+.two{animation-delay:4s}.three{animation-delay:8s}
+@keyframes words{0%,30%{opacity:1}34%,96%{opacity:0}100%{opacity:1}}
+@media(prefers-reduced-motion:reduce){text{animation:none}.one{opacity:1}}
+</style><text class="one" x="500" y="33" text-anchor="middle">AI agents. Thoughtful orchestration.</text><text class="two" x="500" y="33" text-anchor="middle">Software QA. Intelligent automation.</text><text class="three" x="500" y="33" text-anchor="middle">From backend logic to working interfaces.</text></svg>
