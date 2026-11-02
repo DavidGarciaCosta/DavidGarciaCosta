@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+ <linearGradient id="sky" x2="1" y2="1"><stop stop-color="#081423"/><stop offset=".65" stop-color="#142d43"/><stop offset="1" stop-color="#345261"/></linearGradient>
+ <linearGradient id="lake" x2="0" y2="1"><stop stop-color="#305165"/><stop offset="1" stop-color="#11283a"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#edcb8b" stop-opacity=".24"/><stop offset="1" stop-color="#e2bc79" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="420" rx="20" fill="url(#sky)"/>
+<circle cx="1000" cy="99" r="130" fill="url(#glow)"/>
+<circle cx="1025" cy="65" r="23" fill="#f4e1b4"/>
+<path d="M620 310L790 116 867 213 973 85 1100 253 1200 169V420H620Z" fill="#426073"/>
+<path d="M741 172L790 116 838 177 806 162 790 173 773 159Z M916 163L973 85 1038 172 999 147 979 160 959 143 940 162Z" fill="#c9dce2"/>
+<path d="M650 348L821 225 915 313 1060 192 1200 312V420H650Z" fill="#223e52"/>
+<path d="M1019 227L1060 192 1108 237 1072 222 1059 231 1043 215Z" fill="#aac4d1"/>
+<path d="M606 336Q820 308 1200 330V420H606Z" fill="url(#lake)"/>
+<g stroke="#638598" stroke-opacity=".32" stroke-width="2"><path d="M830 349h137M1008 361h139M760 379h150M948 398h140M1090 340h65"/></g>
+<path d="M0 401Q230 369 460 400T840 399Q1030 345 1200 382V420H0Z" fill="#c7dce3"/>
+<path d="M720 415Q1000 360 1200 395V420H720Z" fill="#e3eef0"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+ <rect x="48" y="44" width="27" height="27" rx="6" fill="#b7474a"/>
+ <path d="M61.5 50v15M54 57.5h15" stroke="#fff" stroke-width="4"/>
+ <text x="88" y="63" font-size="13" font-weight="bold" letter-spacing="3" fill="#b8ced9">LUGANO, SWITZERLAND</text>
+ <text x="48" y="158" font-size="48" font-weight="bold" letter-spacing="-1.6" fill="#f1f6fa">David García Costa</text>
+ <text x="50" y="202" font-size="23" fill="#b9d3e0">Computer Engineer · AI Agent Developer</text>
+ <path d="M50 231h44" stroke="#d5b77f" stroke-width="3"/>
+ <text x="50" y="266" font-size="18" fill="#d9e7ed">MSc Artificial Intelligence @ USI</text>
+ <text x="50" y="299" font-size="14" letter-spacing="1.3" fill="#92afc0">AI AGENTS / AUTOMATION / SOFTWARE ENGINEERING</text>
+ <text x="50" y="354" font-size="12" letter-spacing="2.4" fill="#d7bf94">BUILDING &amp; LEARNING IN THE SWISS WINTER</text>
+</g>
+<g fill="#14362f"><path d="M1145 252l-38 75h23l-35 54h101l-34-54h22Z"/><path d="M860 300l-23 44h14l-21 34h62l-21-34h12Z"/></g>
+<g fill="#d7e7e8"><path d="M1145 252l-22 44 23-12 21 12Z M1115 350l31-14 29 14-13-23h-32Z"/><path d="M860 300l-15 29 15-8 14 8Z"/></g>
+<g fill="#e9c781"><circle cx="1128" cy="310" r="3"/><circle cx="1158" cy="323" r="3"/><circle cx="1130" cy="355" r="3"/><circle cx="1167" cy="361" r="3"/><circle cx="1146" cy="375" r="3"/><circle cx="852" cy="342" r="2"/><circle cx="871" cy="357" r="2"/></g>
+<path d="M1145 238l3 7 8 1-6 5 1 8-6-4-7 4 2-8-6-5 8-1Z" fill="#f2d58e"/>
+<g fill="#263f4d"><path d="M968 367v-36h65v36Z"/><path d="M958 334l42-30 44 30Z"/></g>
+<path d="M958 334l42-30 44 30-44-19Z" fill="#dae7e9"/>
+<g fill="#edc886"><rect x="978" y="342" width="10" height="12" rx="1"/><rect x="1011" y="342" width="10" height="12" rx="1"/></g>
+<path d="M992 367v-21h11v21" fill="#183042"/>
+</svg>
