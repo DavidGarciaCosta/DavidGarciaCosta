@@ -6,7 +6,7 @@
 
 **From Spain to Lugano, Switzerland 🇪🇸 🇨🇭**
 
-[LinkedIn](https://www.linkedin.com/in/david-garc%C3%ADa-costa/) · [Projects](#-selected-projects) · [Hackathon demo](https://youtu.be/6jT3EJk6Cb4)
+[LinkedIn](https://www.linkedin.com/in/david-garc%C3%ADa-costa/) · [Projects](#selected-projects) · [Hackathon demo](https://youtu.be/6jT3EJk6Cb4)
 
 </div>
 
@@ -15,6 +15,8 @@
 I'm David, a Computer Engineering graduate currently pursuing a **Master's in Artificial Intelligence at Università della Svizzera italiana (USI)** in Lugano.
 
 I've worked on AI agents with **Google ADK**, software QA automation and full-stack applications. I'm interested in connecting AI with practical software engineering: building useful systems, integrating their components and checking how they behave.
+
+<a id="selected-projects"></a>
 
 ## 🏔️ Selected projects
 
