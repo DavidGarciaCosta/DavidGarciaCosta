@@ -20,7 +20,7 @@ I'm **David García Costa**, a Computer Engineering graduate from Spain, current
 
 My work brings together **AI agents, software testing and backend integration**. I've developed agents with Google ADK, explored AI-assisted QA automation in my bachelor's thesis, and built full-stack applications with authentication, databases and real-time features.
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -52,7 +52,7 @@ Software QA · Backend & full-stack development
 
 Built with **EpsilonDev26** for the **SIB / SPHN challenge** at Neural Wave 2026 in Lugano. SIB Doc translates research questions into SPARQL queries over clinical knowledge graphs, then validates the query and checks privacy compliance.
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -79,7 +79,7 @@ My bachelor's thesis explored **automating software quality-assurance workflows 
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -112,7 +112,7 @@ Svelte 5 · Express · MongoDB · Redis
 
 <img src="assets/section-toolbox.svg" width="100%" alt="03 / Tools I work with"/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
 
