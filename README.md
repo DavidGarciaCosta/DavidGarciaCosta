@@ -155,4 +155,4 @@ Interested in **AI agents, QA automation or software development**? You can find
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="From Spain to the Swiss winter. David García Costa · USI Lugano."/>
+<img src="assets/footer.svg" width="100%" alt="España y Suiza David García Costa · USI Lugano."/>
